@@ -15,7 +15,9 @@ Built with **Spring Boot**, **Thymeleaf**, **Bootstrap**, and **Chart.js** for a
 ---
 
 ## 🌐 Live Demo  
-👉 Add link after deployment (Render / Railway / Vercel)
+```
+👉 COMING SOON
+```
 
 ---
 
@@ -27,7 +29,6 @@ Built with **Spring Boot**, **Thymeleaf**, **Bootstrap**, and **Chart.js** for a
 - Track **monthly budgets**
 - Visualize spending with **interactive charts**
 - Export **PDF financial reports**
-- Access dashboard using **Spring Security login**
 - View real-time financial summaries
 
 ---
@@ -38,7 +39,6 @@ Built with **Spring Boot**, **Thymeleaf**, **Bootstrap**, and **Chart.js** for a
 - 📊 Pie chart visualization using Chart.js
 - 🧾 Export clean PDF financial reports
 - 📅 Monthly budget monitoring
-- 🔐 Login authentication (Spring Security)
 - 🎨 Responsive UI built with Bootstrap
 - 📦 Real-time expense dashboard
 - 🗄️ H2 database with auto schema
@@ -88,13 +88,6 @@ http://localhost:8080
 
 ---
 
-## 🔑 Login Credentials
-
-Username: admin  
-Password: admin123
-
----
-
 ## 🧾 Example Transactions
 
 | Title     | Amount | Category | Type    | Date        |
@@ -126,11 +119,9 @@ Deploy on: Render, Railway, Heroku, Azure
 
 ---
 
-## 👨‍💻 Contributor
-
-| Name | Role | LinkedIn |
-|------|-------|----------|
-| Shoaib Ahmed | Full-Stack Developer | https://www.linkedin.com/in/shoaib-ahmed-b05973274 |
+| Name | Role | Photo | LinkedIn |
+|------|------|--------|-----------|
+| **Shoaib Ahmed** | Developer & Designer | ![Shoaib Ahmed](https://github.com/shoaibahmed2755/Twinenergy/blob/main/Contri/Shoaib.png) | [LinkedIn](https://www.linkedin.com/in/shoaib-ahmed-b05973274/) |
 
 ---
 
