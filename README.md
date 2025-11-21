@@ -4,7 +4,7 @@ Built with **Spring Boot**, **Thymeleaf**, **Bootstrap**, and **Chart.js** for a
 
 # 📊 Expense Tracker — Smart Finance Dashboard
 
-![ExpenseTracker Banner](https://github.com/<your-username>/ExpenseTracker/blob/main/Dashboard.png)
+![ExpenseTracker Banner](https://github.com/shoaibahmed2755/ExpenseTracker/blob/main/Images/Dashboard.png)
 
 [![Java](https://img.shields.io/badge/Java-23-orange?logo=openjdk)]()
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5-brightgreen?logo=springboot)]()
@@ -47,9 +47,9 @@ Built with **Spring Boot**, **Thymeleaf**, **Bootstrap**, and **Chart.js** for a
 
 ## 🖼️ Screenshots
 
-| Dashboard | Add | PDF |
+| Dashboard | Visuals | PDF |
 |-----------|------|-------|
-| ![](https://github.com/<your-username>/ExpenseTracker/blob/main/screens/Dashboard.png) | ![](https://github.com/<your-username>/ExpenseTracker/blob/main/screens/AddExpense.png) | ![](https://github.com/<your-username>/ExpenseTracker/blob/main/screens/PDFReport.png) |
+| ![](https://github.com/shoaibahmed2755/ExpenseTracker/blob/main/Images/Dashboard.png) | ![](https://github.com/shoaibahmed2755/ExpenseTracker/blob/main/Images/Expense%20BreakDown%20PIECHART.png) | ![](https://github.com/shoaibahmed2755/ExpenseTracker/blob/main/Images/Report%20PDF.png) |
 
 ---
 
