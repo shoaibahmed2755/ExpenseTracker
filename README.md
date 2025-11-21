@@ -58,17 +58,18 @@ Built with **Spring Boot**, **Thymeleaf**, **Bootstrap**, and **Chart.js** for a
 src/
 │
 ├── main/
-│   ├── java/com/example/tracker/
-│   │     ├── controller/
-│   │     ├── model/
-│   │     ├── service/
-│   │     ├── repository/
-│   │     └── ExpenseTrackerApplication.java
-│   │
-│   ├── resources/
-│   │     ├── templates/index.html
-│   │     ├── static/
-│   │     └── application.properties
+│ ├── java/com/example/tracker/
+│ │ ├── controller/
+│ │ ├── model/
+│ │ ├── service/
+│ │ ├── repository/
+│ │ └── ExpenseTrackerApplication.java
+│ │
+│ ├── resources/
+│ │ ├── templates/
+│ │ │ └── index.html
+│ │ ├── static/
+│ │ └── application.properties
 │
 └── pom.xml
 
