@@ -55,6 +55,7 @@ Built with **Spring Boot**, **Thymeleaf**, **Bootstrap**, and **Chart.js** for a
 
 ## 🧩 Project Structure
 
+```
 src/
 │
 ├── main/
@@ -72,7 +73,7 @@ src/
 │ │ └── application.properties
 │
 └── pom.xml
-
+```
 ---
 
 ## ⚙️ Installation
